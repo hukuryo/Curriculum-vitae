@@ -6,10 +6,10 @@
 |:----------:|:---------------:|
 |  Name  | 福島 涼平(Ryohei Fukushima)  |
 |  Qiita  | [@hukuryo](https://qiita.com/hukuryo)  |
-|  Twitter  | [hukuryo](https://twitter.com/hukuryo_)  |
-|  wantedly  | [福島 涼平](https://www.wantedly.com/id/ryohei0509) |
-|  connpass  | [hukuryo](https://connpass.com/user/hukuryo/) |
-|  MyBlog  | [hukuryo-blog](https://hukuryo-blog.vercel.app/)  |
+|  X  | [hukuryo](https://x.com/hukuryo_)  |
+|  Wantedly  | [福島 涼平](https://www.wantedly.com/id/ryohei0509) |
+|  connpass  | [hukuryo](https://connpass.com/user/hukuryo) |
+|  個人ブログ  | [hukuryo-blog](https://hukuryo-no-blog.vercel.app)  |
 
 # スキル
 ### 言語
